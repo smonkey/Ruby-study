@@ -1,4 +1,4 @@
 Ruby-study
 ==========
 
-Ruby files
+Ruby test scripts
